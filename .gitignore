@@ -1,0 +1,22 @@
+
+# Original videos: do not publish
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# Extracted video frames
+extracted_frames/
+
+# Generated MATLAB workspace data
+*.mat
+
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
